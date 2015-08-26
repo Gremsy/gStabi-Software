@@ -26,3 +26,7 @@ USB Driver must be installed to be able to connect gStabi System to PC.
 
 # Support:
 Feedback or support needed, please email to us at support@gremsy.com
+
+More details: www.gremsy.com
+
+
