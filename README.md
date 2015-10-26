@@ -25,6 +25,7 @@ USB Driver must be installed to be able to connect gStabi System to PC.
 4/ Download USB Driver and install on you Mac to be able to connect to gStabi system.
 
 # Support:
+
 Feedback or support needed, please email to us at support@gremsy.com
 
 More details: www.gremsy.com
