@@ -11,6 +11,7 @@ USB Driver must be installed to be able to connect gStabi System to PC.
 
 If you update from previous version, please make sure to backup your profile
 
+On MacOS: ![Profile Database Location on MacOS](https://github.com/Gremsy/gStabi-Software/profilesDatabaseLocation_macOS.png "Profiles Database Location on MacOS")
 
 ## Windows:
 1/ Download zip file for Windows in [Release](https://github.com/Gremsy/gStabi-Software/releases)
