@@ -6,6 +6,12 @@ USB Driver must be installed to be able to connect gStabi System to PC.
 
 [Download USB Driver](https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)
 # How to install:
+
+##Warning: ##
+
+If you update from previous version, please make sure to backup your profile
+
+
 ## Windows:
 1/ Download zip file for Windows in [Release](https://github.com/Gremsy/gStabi-Software/releases)
 
